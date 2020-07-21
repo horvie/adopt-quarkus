@@ -30,7 +30,7 @@ Quarkus is built on top of well-known technologies, most of which you have alrea
 
 It comes with a built-in development mode. You can update the application sources, resources and configurations. The changes are automatically reflected in your running application.
 
-Using @QuarkusTest annotation you can easily write both unit and integration tests, with a bunch of out-of-the-box tooling that makes testing straightforward and simple.
+Using _@QuarkusTest_ annotation you can easily write both unit and integration tests, with a bunch of out-of-the-box tooling that makes testing straightforward and simple.
 
 If you write Camel applications, you will be happy to see how well Camel is integrated with Quarkus.
 
