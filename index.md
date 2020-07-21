@@ -18,7 +18,7 @@ For many years we have had traditional server/application architecture, with sev
 
 The nature of our work is such that we have to respond quickly to change, with as little downtime as possible. Established development and deployment cycle was no longer satisfactory; the need for improvement was great.
 
-We have already built some prototypes with Thorntail and we liked the direction it was headed. When we heard of Quarkus, it had the potential to be even better. 
+We have already built some prototypes with Thorntail and liked the direction it was headed. When we heard of Quarkus, it had the potential to be even better. 
 
 We didn’t go down the path of full-blown microservices. First, we broke up monoliths into individual services and still deployed them to the same application server. Then we incrementally migrated individual services to Quarkus. Instead of one application server containing multiple services, we now have multiple standalone services.
 
