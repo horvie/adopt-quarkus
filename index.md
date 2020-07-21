@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Higher developer productivity and more reliable applications with Quarkus
 
 You can use the [editor on GitHub](https://github.com/horvie/adopt-quarkus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
