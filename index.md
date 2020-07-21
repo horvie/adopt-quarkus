@@ -38,7 +38,7 @@ If you write Camel applications, you will be happy to see how well Camel is inte
 
 We understand that this is necessary for various build-time optimizations and such, but for us, it’s sometimes problematic that JDBC driver configuration _(quarkus.datasource.jdbc.driver)_ is fixed at build time. 
 
-We have some applications that we deploy to customers who use different databases. If we deploy to application servers, we can configure DB drivers server-side and deploy a single build for all customers. With Quarkus we need multiple builds of the same application where the only difference is the DB driver.
+We have some applications that we deploy to customers who use different database vendors. If we deploy to application servers, we can configure DB drivers server-side and deploy a single build for all customers. With Quarkus we need multiple builds of the same application where the only difference is the DB driver.
 
 ## Quarkus future in our company
 
