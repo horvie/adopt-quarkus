@@ -10,7 +10,7 @@ Primary activities of the company:
 - intranet applications for the control and management of technological systems
 - automatic statistical data processing (gathered from the process system)
 
-We cater to a wide range of customers from the energy and utility sectors.
+We cater to a wide range of customers from the energy and utilities sectors.
 
 ## Journey into Quarkus
 
